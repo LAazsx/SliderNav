@@ -1,7 +1,17 @@
-Plugin Name: SliderNav
-Author: Monjurul Dolon, http://mdolon.com/
+Plugin Name: AddressBook
+Original Author: Monjurul Dolon, http://mdolon.com/
 More Information: http://devgrow.com/slidernav
 
+AddressBook is a widget that mimics the contacts list of mobile phones.
+Based on the original work of github.com/DevGrow.
+
+Added template that better fits the contacts use case.
+
+Feel free to use for both non- and for-commercial projects. Just remember
+to give credit where credit is due. :)
+
+
+========================= Original Readme ===========================
 SliderNav is a JQuery plugin that lets you add dynamic, sliding content 
 using a vertical navigation bar (index). It is made mainly for 
 alphabetical listings but can be used with anything, though longer words 
